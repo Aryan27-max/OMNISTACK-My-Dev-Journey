@@ -1,0 +1,65 @@
+if u want to explore and learn from the files here's a sequence u can use
+
+1.  C++ tutorial for beginners 👨‍💻
+2.  Variables and basic data types ✗
+3.  Const 🚫
+4.  Namespaces 📛
+5.  Typedef and type aliases 🙋‍♂️
+6.  Arithmetic operators 🧮
+7.  Type conversion ✨
+8.  User input ⌨️
+9.  Useful math-related functions 🔢
+10. Hypotenuse calculator practice program 📐
+11. If statements 🤔
+12. Switches 🔀
+13. Console calculator program 🖩
+14. Ternary operator ❓
+15. Logical operators 🔣
+16. Temperature conversion program 🌡️
+17. Useful string methods in C++ 〰️
+18. While loops ♾️
+19. Do while loops 🔃
+20. For loops 🔂
+21. Break & continue 💔
+22. Nested loops ➿
+23. Random number generator 🎲
+24. Random event generator 🎁
+25. Number guessing game ↕️
+26. User-defined functions 📞
+27. Return keyword 🔙
+28. Overloaded functions 🍕
+30. Variable scope 🌎
+31. Banking practice program 💰
+32. ROCK PAPER SCISSORS game 👊
+33. Arrays 🚗
+34. Sizeof() operator ⚖️
+35. Iterate over an array 🗃️
+36. Foreach loop 🗂️
+37. Pass array to a function 💵
+38. Search an array for an element 🔎
+39. Sort an array ➡️
+40. Fill() function 🍔
+41. Fill an array with user input 🌭
+42. Multidimensional arrays ⬜
+43. QUIZ GAME 💯
+44. Memory addresses 🏠
+45. Pass by VALUE vs pass by REFERENCE 📧
+46. Const parameters 🧱
+47. Credit card validator program 💳
+48. Pointers 👈
+49. Null pointers ⛔
+50. TIC TAC TOE game ⭕
+51. Dynamic memory 🧠
+52. Recursion 😵
+53. Function templates 🍪
+54. Structs 🏗️
+60. Pass structs as arguments 🚚
+61. Enums 📅
+62. Object-Oriented Programming 🧍
+63. Constructors 👷
+64. Constructor overloading 👨‍🍳
+65. Getters & setters 🔒
+66. Inheritance 👩‍👧‍👦
+
+you'll find all the topics in the topivcs EXCEpt for some cause i thought if u are starting with C++ u might have gone
+through C program. 
