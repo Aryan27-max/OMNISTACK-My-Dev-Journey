@@ -53,8 +53,9 @@ gcc --version
 g++ --version
 ```
 
-# ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## ⚙ Install Python (Windows)
+# ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ```
 winget install -e --id Python.Python.3
 ```
@@ -67,8 +68,9 @@ python --version
 pip --version
 ```
 
-# ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ## ⚙ Install JDK 17 or 21
+# ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ```
 winget install -e --id Oracle.JDK.21
 ```
@@ -82,11 +84,12 @@ javac -version
 ```
 
 # 🌐 Web Development Setup 
+
+  
+### ⚙ Install Node.js LTS
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## ⚙ Node.js + npm (node package manager)
-  
-### ⚙ Install Node.js LTS
 ```
 winget install -e --id OpenJS.NodeJS.LTS
 ```
@@ -99,8 +102,9 @@ node -v
 npm -v
 ```
 
-## ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 #### ⚙ Install Node.js LTS
+## ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ```
 npm install -g typescript
 ```
@@ -110,9 +114,10 @@ tsc -v
 ```
 
 # ⚛️ Frontend Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ## ⚙ Create a new React app (Vite recommended)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ```
 npm create vite@latest my-react-app --template react
 ```
@@ -126,8 +131,9 @@ npm install
 npm run dev
 ```
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ## ⚙ Create a new Next app
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ```
 npx create-next-app@latest my-next-app
 ```
