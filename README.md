@@ -54,7 +54,7 @@ g++ --version
 ```
 
 
-## ⚙ Install Python (Windows)
+# ⚙ Install Python (Windows)
 # ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ```
 winget install -e --id Python.Python.3
@@ -69,7 +69,7 @@ pip --version
 ```
 
 
-## ⚙ Install JDK 17 or 21
+# ⚙ Install JDK 17 or 21
 # ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ```
 winget install -e --id Oracle.JDK.21
@@ -86,7 +86,7 @@ javac -version
 # 🌐 Web Development Setup 
 
   
-### ⚙ Install Node.js LTS
+# ⚙ Install Node.js LTS
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## ⚙ Node.js + npm (node package manager)
@@ -103,7 +103,7 @@ npm -v
 ```
 
 
-#### ⚙ Install Node.js LTS
+# ⚙ Install Node.js LTS
 ## ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ```
 npm install -g typescript
@@ -116,7 +116,7 @@ tsc -v
 # ⚛️ Frontend Frameworks
 
 
-## ⚙ Create a new React app (Vite recommended)
+# ⚙ Create a new React app (Vite recommended)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ```
 npm create vite@latest my-react-app --template react
@@ -132,7 +132,7 @@ npm run dev
 ```
 
 
-## ⚙ Create a new Next app
+# ⚙ Create a new Next app
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ```
 npx create-next-app@latest my-next-app
@@ -167,6 +167,6 @@ npm install express nodemon
 nodemon index.js
 ```
 
+---
 
-
-# MADE WITH ❤ BY ### 🔗 Connect with me [GitHub – Aryan27-max](https://github.com/Aryan27-max)
+# MADE WITH ❤ BY [Aryan27-max](https://github.com/Aryan27-max)
