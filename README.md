@@ -25,7 +25,7 @@ This repository serves as my central learning hub, tracking my progress as I exp
 # 📦 🔧 Installation, Clone & Dependencies 
 ## 📁 Clone the Repository
 ```
-git clone https://github.com/your-username/omnistack-my-dev-journey.git
+git clone https://github.com/Aryan27-max/omnistack-my-dev-journey.git
 ```
 ## 📁 Tack to Repository
 ```
