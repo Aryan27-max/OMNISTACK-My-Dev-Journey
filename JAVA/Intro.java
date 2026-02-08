@@ -23,8 +23,8 @@ class Intro{
     public static void main (String[] args){
         int age = 20;
         int year = 2026;
+        String name = "Aryan";
 
-        System.out.println(age);
-        System.err.println("The year is " + year);
+        System.out.println("Hello my name is " + name + " my age is "+ age + " the year is " + year);
     }
 }
