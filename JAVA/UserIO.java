@@ -1,0 +1,19 @@
+
+import java.util.Scanner;
+
+// for user IO we use the java scanner class imported from the Utils 
+// libraray in java 
+
+class UserIO {
+    public static void main (String[] args){
+        Scanner sc = new Scanner (System.in);
+
+        System.out.print("Enter your name: ");
+        String name = sc.nextLine();
+
+        System.out.println("your name is " + name);
+
+
+        sc.close();
+    }
+}
