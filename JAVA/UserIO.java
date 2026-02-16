@@ -13,6 +13,11 @@ class UserIO {
       
         System.out.print("Enter your age: ");
         int age = sc.nextInt();
+        sc.nextLine();
+        //whenever u use the nextInt method remember to put a scanner.nextLine to
+        // remove the next line buffer like down here cause we are usiing the nextInt methid 
+        // so we uuse the nextLine() mebthod
+
 
         System.out.print("Enter your gpa: ");
         double gpa = sc.nextDouble();
@@ -22,7 +27,7 @@ class UserIO {
 
         System.out.println("Your name is " + name );
         System.out.println("You are " + age + " years old " );
-        System.out.println("Your gpa is " + name );
+        System.out.println("Your gpa is " + gpa );
         System.out.println("Your student status is " + isStudent );
 
         sc.close();
