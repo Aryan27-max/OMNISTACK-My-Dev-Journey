@@ -26,7 +26,12 @@ public class MathsMethods {
         result = Math.ceil(5.43);
         //this is the floor method this rounds down to the lower value of any number 
         result = Math.floor(8.11) ;
+        //this method is used to find the max between ONLY 2 VALUES not MORE THAN 2 
+        result = Math.max(10, 20);
+        //this method is used to find the min between ONLY 2 VALUES not MORE THAN 2 
+        result = Math.min(10, 20);
 
+        
         System.out.println(result);
 
 
