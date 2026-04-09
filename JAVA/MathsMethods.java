@@ -8,16 +8,17 @@ public class MathsMethods {
         // the maths class in  lready imprted in the java package 
         // the values of PI and E (eulers constant) are built into java 
         // you can acess them as follows 
-        System.out.println(Math.PI);
-        System.out.println(Math.E);      
+        // System.out.println(Math.PI);
+        // System.out.println(Math.E);      
 
         double result ;
 
         // this Math.pow fn is used to raise the power of a number 
-        // this works as Math.pow(number, Degree of exponent)
+        // this works as Math.pow(base, power)
         result = Math.pow(2,3);
+        // this is the mo
 
-        System.out.println("result");
+        System.out.println(result);
 
 
 
