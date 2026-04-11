@@ -17,15 +17,11 @@ public class Menst_circle {
         radius = scanner.nextDouble();
 
         circumference = 2 * Math.PI * radius;
-
-        System.out.println("The circunference of the circle is: " + circumference + " sq. units");
-
         area = Math.PI * Math.pow(radius, 2);
-
-        System.out.println("The area of the circle is: " + area + " sq. units");
-
         volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
+        System.out.println("The circunference of the circle is: " + circumference + " sq. units");
+        System.out.println("The area of the circle is: " + area + " sq. units");
         System.out.println("The area of the volume is: " + volume + " cube. units");
 
         scanner.close();
