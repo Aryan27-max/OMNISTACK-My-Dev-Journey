@@ -26,7 +26,7 @@ public class Menst_circle {
 
         volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
-        System.out.println("The area of the volume is: " + volume + " sq. units");
+        System.out.println("The area of the volume is: " + volume + " cube. units");
 
         scanner.close();
     }
