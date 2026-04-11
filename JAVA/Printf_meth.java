@@ -57,7 +57,5 @@ public class Printf_meth {
         System.out.printf("%-4d\n", id2);
         System.out.printf("%-4d\n", id3);
         System.out.printf("%-4d\n", id4);
- 
-
    } 
 }
