@@ -20,9 +20,9 @@ public class Menst_circle {
         area = Math.PI * Math.pow(radius, 2);
         volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
-        System.out.println("The circunference of the circle is: " + circumference + " sq. units");
-        System.out.println("The area of the circle is: " + area + " sq. units");
-        System.out.println("The area of the volume is: " + volume + " cube. units");
+        System.out.printf("The circunference of the circle is: %.2fcm²\n", circumference );
+        System.out.printf("The area of the circle is: %.2fcm²\n", area  );
+        System.out.printf("The area of the volume is: %.2fcm^3\n", volume );
 
         scanner.close();
     }
