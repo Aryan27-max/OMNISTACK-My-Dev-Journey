@@ -30,6 +30,7 @@ public class MathsMethods {
         result = Math.max(10, 20);
         //this method is used to find the min between ONLY 2 VALUES not MORE THAN 2 
         result = Math.min(10, 20);
+         
 
         
         System.out.println(result);
