@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GettersSetters",
+      "request": "launch",
+      "mainClass": "GettersSetters",
+      "projectName": "OMNISTACK-My-Dev-Journey_2764a343"
+    },
+    {
+      "type": "java",
       "name": "Interfaces",
       "request": "launch",
       "mainClass": "Interfaces",
