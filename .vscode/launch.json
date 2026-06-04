@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "play",
+      "request": "launch",
+      "mainClass": "play",
+      "projectName": "OMNISTACK-My-Dev-Journey_2764a343"
+    },
+    {
+      "type": "java",
+      "name": "Enums1",
+      "request": "launch",
+      "mainClass": "Enums1",
+      "projectName": "OMNISTACK-My-Dev-Journey_2764a343"
+    },
+    {
+      "type": "java",
       "name": "GettersSetters",
       "request": "launch",
       "mainClass": "GettersSetters",
